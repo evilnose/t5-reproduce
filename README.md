@@ -1,7 +1,8 @@
 # Reproducing Roberts et al. 2020
 
-This repository contains code to reproduce the results of Roberts et al. (2020) "How Much Knowledge Can you Pack
-Into the Parameters of a Language Model?". Using the HuggingFace transformers library, we reproduced the results for
+This repository contains code to reproduce the results of [Roberts et al. (2020) "How Much Knowledge Can you Pack
+Into the Parameters of a Language Model?"](https://www.aclweb.org/anthology/2020.emnlp-main.437/).
+Using the HuggingFace transformers library, we reproduced the results for
 `t5-small`, `t5-base`, and `t5-large` models for the WebQuestions dataset.
 
 ## Dependencies
